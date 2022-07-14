@@ -1,12 +1,12 @@
 {
-    "name": "Der bot",
-    "description": "Hapere",
-    "logo": "",
+    "name": "Danger UserBot",
+    "description": "Danger UserBot ",
+    "logo": "https://te.legra.ph/file/53282eea1bc89766b75a3.jpg",
     "keywords": [
         "gehehsh"
     ],
-    "repository": "https://var.com/",
-    "success_url": "https://combat",
+    "repository": "https://github.com/GwGYT/Danger_UserBot",
+    "success_url": "https://t.me/DANGER_USERBOT",
     "stack": "heroku-20",
     "env": {
         "API_ID": {

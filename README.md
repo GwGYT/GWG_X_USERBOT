@@ -17,4 +17,8 @@
 [![Forks](https://img.shields.io/github/forks/gwgyt/gwg_x_userbot?style=flat-square&color=orange)](https://github.com/gwgyt/gwg_x_userbot/fork)
 [![Size](https://img.shields.io/github/repo-size/gwgyt/gwg_x_userbot?style=flat-square&color=green)](https://github.com/gwgyt/gwg_x_userbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-
+------
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Danger_UserBot_Support)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_Danger)
+------

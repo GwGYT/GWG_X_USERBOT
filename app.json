@@ -1,7 +1,7 @@
 {
-    "name": "Der bot",
-    "description": "Hapere",
-    "logo": "",
+    "name": "DANGER USERBOT",
+    "description": "DANGER USERBOT",
+    "logo": "https://te.legra.ph/file/53282eea1bc89766b75a3.jpg",
     "keywords": [
         "gehehsh"
     ],
@@ -12,12 +12,12 @@
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
             "value": "", 
-            "required": false
+            "required": true
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
             "value": "",
-            "required": false
+            "required": true
         },
         "SESSION": {
             "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
@@ -26,12 +26,12 @@
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
             "value": "",
-            "required": false
+            "required": true
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
             "value": "",
-            "required": false
+            "required": true
         },
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",

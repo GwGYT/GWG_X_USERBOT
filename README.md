@@ -19,6 +19,6 @@
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Danger_UserBot_Support)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_Danger)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/danger_userbot_support)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/official_danger_userbot)
 ------

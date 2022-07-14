@@ -33,7 +33,4 @@
 * [![Run on Repl.it](https://replit.com/badge/github/GwG/Gwg_x_userbot)](https://replit.com/@TITHIJARYAN/DANGER-STRING-SESSION?v=1)
 
 # Credits
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-
 > Made with 💕 by [@Team_DANGER](https://t.me/TeAM_DANGER_USERBOT).    

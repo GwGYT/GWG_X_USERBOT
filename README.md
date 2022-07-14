@@ -1,3 +1,7 @@
+<h1 align="center">
+<b> 『ĐĂŇĞÊŘ ŰŠÊŘBØŤ』🇮🇳 </b>
+</h1>
+
 [![DANGER](https://te.legra.ph/file/53282eea1bc89766b75a3.jpg)](https://github.com/GwGYT/GWG_X_USERBOT)
 
 </p>
